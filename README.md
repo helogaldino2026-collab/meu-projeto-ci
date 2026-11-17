@@ -12,3 +12,5 @@ Projeto web simples com Backend (Node.js + Express) e Frontend (HTML/JS) desenvo
 ## Como rodar os testes automatizados
 Execute o comando:
 `npm test`
+## Aplicação Online (Deploy)
+Acesse o projeto funcionando em: https://meu-projeto-ci.onrender.com
